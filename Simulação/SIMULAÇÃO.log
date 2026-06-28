@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\Pedro HSO\Documents\GitHub\Amp. Op. Project\Simulação\SIMULAÇÃO.net
-Start Time: Sat Jun 27 12:35:22 2026
+Start Time: Sat Jun 27 13:04:49 2026
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -24,8 +24,8 @@ Instance "M8": Length shorter than recommended for a level 1 MOSFET.
 Instance "M8": Width narrower than recommended for a level 1 MOSFET.
 Instance "M9": Length shorter than recommended for a level 1 MOSFET.
 Instance "M9": Width narrower than recommended for a level 1 MOSFET.
-Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.107 seconds.
+.step 
+Total elapsed time: 0.079 seconds.
 
 Files loaded:
 C:\Users\Pedro HSO\Documents\GitHub\Amp. Op. Project\Simulação\SIMULAÇÃO.net
